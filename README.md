@@ -48,7 +48,8 @@ Part 1: VirtualBox & Ubuntu Installation
 
 ○	Find files in a directory.
 
-``find -type -f``: this commant will serarch for file type only, in current directory.
+``find . -type -f``: this commant will serarch for file type only, in current directory.
+
 ![image](https://github.com/user-attachments/assets/ef15a6cb-1ec4-4428-ab8d-fccb823d491d)
 
 
