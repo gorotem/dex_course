@@ -1,17 +1,19 @@
 # dex_course
 Linux Day1 - homework rotem
 
-Part 1: VirtualBox & Ubuntu Installation
+## Part 1: VirtualBox & Ubuntu Installation
 
 ``VirtualBox & Ubuntu`` affter download and installation:
 
 ![image](https://github.com/user-attachments/assets/b76ac24d-37f7-43cd-a60d-66c1eb62d385)
 
+
 ``cat /etc/os-release``: This command open the "/etc/os-release" file and display its contents.
 
 ![image](https://github.com/user-attachments/assets/722285b1-1ecb-4cbf-9bfd-abcf4a4e08a1)
 
-**Part 2: Linux Directory and File Creation**
+
+## **Part 2: Linux Directory and File Creation**
 
 **1.**	Create Directories and Files:
 
@@ -35,7 +37,8 @@ Part 1: VirtualBox & Ubuntu Installation
 ![image](https://github.com/user-attachments/assets/29e54cab-0543-4d0d-b3e7-37526e06dc8f)
 
 
-**Part 3: Using grep and find Commands**
+
+## **Part 3: Using grep and find Commands**
 
 **1.**	grep Command:
 
