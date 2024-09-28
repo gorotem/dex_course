@@ -10,3 +10,10 @@ creating a Dockerfile and using docker-compose to manage multi-container applica
 
 
 ![image](https://github.com/user-attachments/assets/55fae1a8-5dc8-416c-bd36-95f0153a726b)
+
+
+## Task 2: ...##
+
+### docker-compos.yml file: ###
+
+![image](https://github.com/user-attachments/assets/17564b27-c751-4d54-8cb2-6367c28048f6)
