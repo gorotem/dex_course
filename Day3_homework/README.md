@@ -12,8 +12,18 @@ creating a Dockerfile and using docker-compose to manage multi-container applica
 ![image](https://github.com/user-attachments/assets/55fae1a8-5dc8-416c-bd36-95f0153a726b)
 
 
-## Task 2: ...##
+## Task 2: Run Multi-Container Application Using Docker Compose ##
 
-### docker-compos.yml file: ###
+### docker-compose.yml file:
 
 ![image](https://github.com/user-attachments/assets/17564b27-c751-4d54-8cb2-6367c28048f6)
+
+### docker-compose yml up command:
+![image](https://github.com/user-attachments/assets/15769d98-ca60-45a6-b65a-34fd668b42bd)
+
+### docker ps:
+![image](https://github.com/user-attachments/assets/33846dd8-ef53-44f7-85b6-94942dbdc24b)
+
+### Same web app running with docker-compose:
+
+![image](https://github.com/user-attachments/assets/b0374188-56a0-452f-a01e-81f35b89ad21)
