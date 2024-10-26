@@ -11,3 +11,8 @@
 3) **Service describe:**
 
 ![image](https://github.com/user-attachments/assets/0eb1ca3c-a14e-4f53-937d-008841a07185)
+
+
+4) **Deployment describe:**
+
+![image](https://github.com/user-attachments/assets/e52b1bdf-6dab-490c-90a1-07627fda07f9)
