@@ -45,3 +45,22 @@ Task number 3:
 Service definition.
 
 apiVersion: v1
+kind: Service
+metadata:
+  name: rotem-service
+  namespace: rotem2-namespace
+spec:
+  selector:
+    app: rotem-app
+  ports:
+    - port: 80
+
+*************************************
+
+last task:
+Apply all YAML files to create the namespaces, deployment, and service.
+
+kubectl apply -f namespace-1.yaml
+kubectl apply -f namespace-2.yaml
+kubectl apply -f deployment.yaml
+kubectl apply -f service1.yaml
