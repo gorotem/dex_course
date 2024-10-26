@@ -57,7 +57,7 @@ spec:
 
 *************************************
 
-last task:
+Last task:
 Apply all YAML files to create the namespaces, deployment, and service.
 
 kubectl apply -f namespace-1.yaml
