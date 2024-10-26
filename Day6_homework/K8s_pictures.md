@@ -7,3 +7,7 @@
 2) **Namespace two, and service created:**
 
 ![image](https://github.com/user-attachments/assets/0f624b33-10ad-4a6b-a78e-6d31b08585cb)
+
+3) **Service describe:**
+
+![image](https://github.com/user-attachments/assets/0eb1ca3c-a14e-4f53-937d-008841a07185)
