@@ -1,6 +1,7 @@
 **Task number 1:**
 
-namespace definition.
+``TWO Namespace definition.``
+
 
 apiVersion: v1
 
@@ -21,3 +22,6 @@ metadata:
 name: rotem2-namespace
 
 **********************************
+
+
+**Task number 2:**
