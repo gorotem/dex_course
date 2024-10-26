@@ -24,7 +24,7 @@ metadata:
   name: rotem-deployment
   namespace: rotem1-namespace
 spec:
-  replicas: 1
+  replicas: 2
   selector:
     matchLabels:
       app: rotem-app
@@ -39,4 +39,9 @@ spec:
         ports:
           - containerPort: 80
 
+*************************************
 
+Task number 3:
+Service definition.
+
+apiVersion: v1
