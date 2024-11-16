@@ -19,3 +19,7 @@
 
 ![image](https://github.com/user-attachments/assets/c5a2c52e-119f-40bb-a836-f0ec697b03c5)
 
+5.
+`Login to ArgoCD UI:`
+
+![image](https://github.com/user-attachments/assets/2753d63d-df8a-429b-8baa-cb950319637f)
