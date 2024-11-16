@@ -23,3 +23,7 @@
 `Login to ArgoCD UI:`
 
 ![image](https://github.com/user-attachments/assets/2753d63d-df8a-429b-8baa-cb950319637f)
+
+* `installing a test app:`
+
+![image](https://github.com/user-attachments/assets/fe5c5444-d1bd-40cb-9aa5-2508ac755c87)
